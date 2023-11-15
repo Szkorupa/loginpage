@@ -48,7 +48,7 @@ body {
 }
 
 .username:hover{
-    border-bottom: 3px solid #dc758f;
+    border-bottom: 2px solid #dc758f;
     transition-duration: 0.2s;
 }
 
@@ -59,7 +59,7 @@ body {
 }
 
 .password:hover{
-    border-bottom: 3px solid #dc758f;
+    border-bottom: 2px solid #dc758f;
     transition-duration: 0.2s;
 }
 
